@@ -1,0 +1,73 @@
+﻿================================
+= FACTORY RESET A MOTO G5 plus =
+================================
+
+TABLE OF CONTENTS:
+
+1) Prep
+2) Connect phone to computer
+3) Preform Factory Reset
+4) Settings to change
+5) APKs and APPS
+
+
+
+1 - PREP:
+
+1) Plug phone into power source
+2) Export any Text conversations to SD Card
+3) Gather and Check if Login/Passwords for services work: Facebook, twitter, protonmail
+4) Auto backups: phone numbers and pictures are backed up by google.
+5) Export Bearing Information from Trail Sense (May need a text editor. Use Copy/paste function)
+6) Export Data from Open Tracks
+
+
+2 - CONNECT PHONE TO COMPUTER:
+
+*Linux Mint can not transfer files with the Moto G5 unless it’s in Developer mode.
+1) Settings > System > About phone
+2) Scroll Down to Build number
+3) Tap Build number 7 times. A message that says “You are now a developer” should appear.
+4) Click Developer options from System menu
+5) Scroll down to Debugging section
+6) Make sure USB debugging is ON.
+
+
+3 - PREFORM FACTORY RESET:
+
+1) Settings > System > Reset Options > Erase All Data (factory reset)
+
+* Just the phone NOT the SD card.
+*Make sure phone stays plugged in. 
+
+
+4 - SETTINGS TO CHANGE:
+
+*Preform Changes after Factory Reset
+1) Camera App – Save photos to SD card
+2) Put phone into Developer mode (Section 2)
+3) Files App – Tap 3 dots on right hand corner > Show internal storage
+4) Change search engine on browser app to Startpage or duckduckgo.com
+
+5 - APK AND APPS:
+
+1) Open Files App > Tap 3 Lines Top left corner > Tap SD Card > Tap APK directory >
+    Tap F-Droid.apk
+- Install Trail Sense (Beacons), Open Tracks (Walk Paths/stats), OSM Dash board
+
+2) Apps from Google Play
+
+- Firefox
+- Mapillary
+- Old School Editor (Great for saving beacon info from Trail Sense)
+- OsmAnd
+- Proton Mail
+- SDRTouch / Rtl-sdr driver
+- Google Translate
+- Tune In Radio
+- Uber
+- VLC
+- WhatsApp
+
+
+
